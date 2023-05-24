@@ -1,4 +1,7 @@
 
 
-checkpoint/
-data/
+checkpoint/*
+data/*
+
+.idea/
+__pycache__
